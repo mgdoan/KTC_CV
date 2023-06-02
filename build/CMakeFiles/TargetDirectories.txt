@@ -1,0 +1,3 @@
+/Users/meredithdoan/Desktop/opencv-setup/build/CMakeFiles/MyProject.dir
+/Users/meredithdoan/Desktop/opencv-setup/build/CMakeFiles/edit_cache.dir
+/Users/meredithdoan/Desktop/opencv-setup/build/CMakeFiles/rebuild_cache.dir
