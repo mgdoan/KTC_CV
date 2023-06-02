@@ -6,7 +6,6 @@
 using namespace cv;
 using namespace std;
 
-//test again 
 
 Mat src_gray;
 int thresh = 1;
