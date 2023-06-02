@@ -6,6 +6,8 @@
 using namespace cv;
 using namespace std;
 
+//test again 
+
 Mat src_gray;
 int thresh = 1;
 RNG rng(12345);
@@ -106,4 +108,4 @@ void thresh_callback(int, void*, int rows, int cols)
     imshow( "Contours", drawing );
 }
 
-///test!!!
+
